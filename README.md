@@ -27,6 +27,7 @@ cd word-file-manipulation
 ```
 #Run the main script in the terminal:
 ```
-python fileAutomatio.py
+python fileAutomation.py
 ```
-Replace main_script.py with the actual name of your main Python script.
+
+#Now Output of Your Project will be Generated

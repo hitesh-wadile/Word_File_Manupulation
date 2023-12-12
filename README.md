@@ -18,7 +18,7 @@ pip install pandas
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/word-file-manipulation.git
+git clone https://github.com/hitesh-wadile/word-file-manipulation.git
 ```
 
 #Navigate to the project directory:
@@ -27,6 +27,6 @@ cd word-file-manipulation
 ```
 #Run the main script in the terminal:
 ```
-python main_script.py
+python fileAutomatio.py
 ```
 Replace main_script.py with the actual name of your main Python script.
